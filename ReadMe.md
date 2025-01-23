@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Atualmente Estudando ProstgreSQL<br>👯 Irei trabalhar na area<br>🤝 Gostaria de ajuda com codigos<br>🌱 Proximo curso a estudar: TypeScript<br>💬 Boa comunicação<br>⚡ Ex-Proplayer Fortinite<br>🤑 A procura de Estagio
+🔭 Atualmente Estudando ProstgreSQL<br>👯 Irei trabalhar na area<br>🤝 Gostaria de ajuda com codigos<br>🌱 Proximo curso a estudar: TypeScript<br>💬 Boa comunicação<br>🤑 A procura de Estagio
 
 
 ## 🌐 Socials:
