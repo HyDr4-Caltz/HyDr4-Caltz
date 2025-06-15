@@ -80,14 +80,14 @@
 
 ###
 
+<img align="right" height="250" src="https://i.imgflip.com/9xh3vz.gif"  />
+
+###
+
 <div align="center">
   <a href="https://open.spotify.com/user/ahydra56">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=ahydra56&count=5" alt="Spotify recently played"  />
   </a>
 </div>
-
-###
-
-<img align="right" height="250" src="https://i.imgflip.com/9xh3vz.gif"  />
 
 ###
