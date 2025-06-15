@@ -74,4 +74,4 @@
 
 ###
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Provavelmente+Estudando)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Provavelmente+Estudando;Busquem+Comer+Cimento+)](https://git.io/typing-svg)
