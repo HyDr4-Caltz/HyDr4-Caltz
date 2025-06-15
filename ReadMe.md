@@ -9,10 +9,6 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/9xh3vz.gif"  />
-
-###
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -66,9 +62,7 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/HyDr4-Caltz/HyDr4-Caltz/output/snake.svg" alt="Snake animation" />
+<img align="right" height="350" src="https://i.imgflip.com/9xh3vz.gif"  />
 
 ###
 
@@ -77,5 +71,13 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=ahydra56&count=5" alt="Spotify recently played"  />
   </a>
 </div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HyDr4-Caltz/HyDr4-Caltz/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HyDr4-Caltz/HyDr4-Caltz/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/HyDr4-Caltz/HyDr4-Caltz/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
