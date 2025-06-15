@@ -2,6 +2,12 @@
 
 ###
 
+<br clear="both">
+
+<h4 align="center">Hello 👋, my name is Daniel, and I am a programming 💻student 📖looking for opportunities in the market. I am passionate about automation and a great aspirant to things with artificial intelligence. 🤖</h4>
+
+###
+
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=HyDr4-Caltz&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HyDr4-Caltz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
@@ -62,10 +68,6 @@
 
 ###
 
-<img align="right" height="250" src="https://i.imgflip.com/9xh3vz.gif"  />
-
-###
-
 <div align="center">
   <a href="https://open.spotify.com/user/ahydra56">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=ahydra56&count=5" alt="Spotify recently played"  />
@@ -74,4 +76,6 @@
 
 ###
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Provavelmente+Estudando;Busquem+Comer+Cimento+)](https://git.io/typing-svg)
+<img align="right" height="250" src="https://i.imgflip.com/9xh3vz.gif"  />
+
+###
