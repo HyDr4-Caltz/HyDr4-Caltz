@@ -1,4 +1,5 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=30&pause=900&color=F70202&center=true&vCenter=true&width=435&lines=Hi!+I'm+Daniel;Estudante+de+Programa%C3%A7%C3%A3o+;Aprender+nunca+e+de+mais;dancing+dragon.mvk" alt="Typing SVG" /></a>
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=30&pause=900&color=F70202&center=true&vCenter=true&width=435&lines=Hi!+I'm+Daniel;Estudante+de+Programa%C3%A7%C3%A3o+;Aprender+nunca+e+de+mais;dancing+dragon.mvk" alt="Typing SVG" /></a>
 
 ###
 
