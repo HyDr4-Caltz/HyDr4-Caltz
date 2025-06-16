@@ -1,4 +1,4 @@
-https://capsule-render.vercel.app/api?type=waving&height=300&color=&color=0:EEFF00,100:a82da8
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:fd3737,100:d9546c"/>
 
 <div align="center", width="100%">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=30&pause=900&color=F70202&center=true&vCenter=true&width=435&lines=Hi!+I'm+Daniel;Programming+Student;Learn+never+and+too+much!;dancing+dragon.mvk" alt="Typing SVG" /></a>
