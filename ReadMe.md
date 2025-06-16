@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! My name is Daniel</h1>
+https://readme-typing-svg.demolab.com/demo/?weight=300&size=30&pause=900&color=F70202&center=true&vCenter=true&lines=Hi!+I'm+Daniel;Estudante+de+Programa%C3%A7%C3%A3o+;Aprender+nunca+e+de+mais;dancing+dragon.mvk
 
 ###
 
