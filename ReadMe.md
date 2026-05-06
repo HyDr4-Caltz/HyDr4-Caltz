@@ -89,3 +89,4 @@
 </div>
 
 ###
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:fd3737,100:d9546c&section=footer&textBg=false" />
