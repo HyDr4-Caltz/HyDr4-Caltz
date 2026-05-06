@@ -7,7 +7,7 @@
 
 <br clear="both">
 
-<h4 align="center">Hello 👋, my name is Daniel, and I am a programming 💻student 📖looking for opportunities in the market. I am passionate about automation and a great aspirant to things with artificial intelligence. 🤖</h4>
+<h2 align="center">Hello 👋, my name is Daniel, and I am a programming 💻student 📖looking for opportunities in the market. I am passionate about automation and a great aspirant to things with artificial intelligence. 🤖</h2>
 
 ###
 
