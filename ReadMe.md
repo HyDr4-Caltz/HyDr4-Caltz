@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:fd3737,100:d9546c"/>
 
 <div align="center", width="100%">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=30&pause=900&color=F70202&center=true&vCenter=true&width=435&lines=Hi!+I'm+Daniel;Programming+Student;Learn+never+and+too+much!;dancing+dragon.mvk" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=35&letterSpacing=0.2rem&duration=4000&pause=500&color=FD3737&center=true&vCenter=true&width=535&lines=Hi!+I%C2%B4m+Daniel.;Programming+Student;Open+to+work;%E9%9B%B6%E6%9C%B1%E7%8E%89%E4%B8%89%E7%99%BD%E5%8D%97%E4%BA%A5%E7%A9%BA%E9%9D%92%E5%8C%97" alt="Typing SVG" /></a>
 
 ###
 
@@ -13,7 +13,7 @@
 
 ###
 
-<h3 align="left">Tecnologias 🤖:</h3>
+<h3 align="center">Tecnologias 🤖:</h3>
 
 ###
 
@@ -53,7 +53,7 @@
 
 ###
 
-<h3 align="left">Onde me encontrar 💻:</h3>
+<h3 align="center">Onde me encontrar 💻:</h3>
 
 ###
 
@@ -67,18 +67,15 @@
   <a href="https://www.linkedin.com/in/danielazanhasarruf/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://www.behance.net/danielazanhasa" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="behance logo"  />
-  </a>
 </div>
 
 ###
 
-<h3 align="center">😊</h3>
+<h3 align="center">零朱玉三白南亥空青北</h3>
 
 ###
 
-<img align="right" height="250" src="https://i.imgflip.com/9xh3vz.gif"  />
+<img align="center" height="250" src="https://i.imgflip.com/9xh3vz.gif"  />
 
 ###
 
