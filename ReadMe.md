@@ -75,15 +75,7 @@
 
 ###
 
-<img align="center" height="250" src="https://i.imgflip.com/9xh3vz.gif"  />
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/ahydra56">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=ahydra56&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
+<img align="center" width="100%" height='300' src="https://i.pinimg.com/1200x/2d/ae/57/2dae57313f5a42517c2af05b17eda6b4.jpg"/>
 
 ###
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:fd3737,100:d9546c&section=footer&textBg=false" />
